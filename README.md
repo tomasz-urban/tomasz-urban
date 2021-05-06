@@ -4,6 +4,9 @@
 - 🌱 My main focus/main interest is: `Python`, `Data science`, `Data analysis`, `Machine learning`
 - 🌱 I'm using: `Python 3`, `PyCharm`, `Sublime Text`, `Anaconda`, `Miniconda`,  `Jupyter Notebook`, `Google Colab`, `Octave`, `PostgreSQL`, `Git Bash`
 
+- 📫 How to reach me:
+- :office: [LinkedIn] (https://www.linkedin.com/in/tomasz-urban-119a72206/)
+- :pencil2: [Daily Tips] (https://tomasz-urban.github.io/)
 
 [![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tomasz-urban&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/tomasz-urban/github-readme-stats)
 
