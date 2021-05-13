@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me:
-  - :office: [LinkedIn] (https://www.linkedin.com/in/tomasz-urban-119a72206/)
+  - :office:  (https://www.linkedin.com/in/tomasz-urban-119a72206/)
   - :pencil2: (https://tomasz-urban.github.io/)
 
 
